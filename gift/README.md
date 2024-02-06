@@ -49,6 +49,8 @@ sing-box订阅链接（1.8.0以上）
 
 https://mareep.netlify.app/sub/sb.json
 
-#### **直翻网站：**
+#### **在线代理网站：**
 
-[**https://web.xn--xhqwov38c.com/**](https://web.xn--xhqwov38c.com/)
+[**https://web.东方人.com/**](https://web.xn--xhqwov38c.com/)
+
+[https://proxyium.com/zh-CN/](https://proxyium.com/zh-CN/)
