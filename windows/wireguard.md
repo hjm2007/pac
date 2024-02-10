@@ -4,8 +4,6 @@ description: 虽然使用WARP可以实现翻墙，但WARP注册服务域名被GF
 
 # 如何使用WireGuard配合WARP进行科学上网
 
-**2024-1-5:好像出问题了，请先临时使用官方客户端吧。**
-
 条件:务必打开WARP代理模式否则无法识别
 
 1.下载并安装WireGuard:[https://www.wireguard.com/install/](https://www.wireguard.com/install/)
@@ -49,3 +47,24 @@ description: 虽然使用WARP可以实现翻墙，但WARP注册服务域名被GF
 9.点击连接，出现如图即为连接成功
 
 <figure><img src="../.gitbook/assets/屏幕截图 2023-06-24 174207.png" alt=""><figcaption></figcaption></figure>
+
+#### 2024年更新:自动分流
+
+1.管理员cmd运行如下命令:
+
+```
+reg add HKLM\Software\WireGuard /v DangerousScriptExecution /t REG_DWORD /d 1 /f
+```
+
+2.进入[这里](https://github.com/lmc999/auto-add-routes/blob/master/zip/wireguard.zip)下载"wireguard.zip"并将里面的内容解压到WireGuard的安装目录
+
+<figure><img src="../.gitbook/assets/捕获.PNG" alt=""><figcaption></figcaption></figure>
+
+3.修改WireGuard节点配置文件。在MTU下方加入以下内容。取消勾选拦截未经隧道的流量前面的复选框。重新连接，之后就可以正常分流了。
+
+```
+PreUp = "C:\Program Files\WireGuard\routes-up.bat"
+PostUp = "C:\Program Files\WireGuard\dns-up.bat"
+PreDown = "C:\Program Files\WireGuard\routes-down.bat"
+PostDown = "C:\Program Files\WireGuard\dns-down.bat"
+```
