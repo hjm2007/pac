@@ -5,7 +5,7 @@
 ## Windows端工具使用 <a href="#windows" id="windows"></a>
 
 * [如何使用v2rayN](windows/v2ray.md)
-* [如何使用Clash Verge](windows/ru-he-shi-yong-clash-verge.md)
+* [如何使用Clash Verge](windows/clash\_verge.md)
 * [如何使用Shadowsocksr](windows/shadowsocksr.md)
 * [如何使用Cloudflare WARP](windows/warp.md)
 * [如何使用WireGuard配合WARP进行科学上网](windows/wireguard.md)
