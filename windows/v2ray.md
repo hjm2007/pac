@@ -139,7 +139,7 @@ _提示：建议打开"启用更新"并设置"自动更新间隔"为"1"_
 
 解决：点击界面的"重启服务"即可
 
-提示:若要使用多个代理，建议使用[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega/releases)管理代理程序([教程](https://switchyomega.org/))
+提示：若要使用多个代理，建议使用[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega/releases)管理代理程序([教程](https://switchyomega.org/))
 
 <figure><img src="../.gitbook/assets/屏幕截图 2023-06-28 233042.png" alt=""><figcaption></figcaption></figure>
 
