@@ -135,11 +135,11 @@ _提示：建议打开"启用更新"并设置"自动更新间隔"为"1"_
 
 解决：进入[ms-settings:network-proxy](ms-settings:network-proxy)并勾选"自动检测设置"
 
-2：为什么在关闭Shadowsocksr后V2rayN失效了？
-
-这是因为Shadowsocksr与V2rayN代理设置产生冲突了，Shadowsocksr和V2rayN对系统代理设置的内容差别非常大。
+2：为什么在关闭其它代理软件后V2rayN失效了？
 
 解决：点击界面的"重启服务"即可
+
+提示:若要使用多个代理，建议使用[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega/releases)管理代理程序([教程](https://switchyomega.org/))
 
 <figure><img src="../.gitbook/assets/屏幕截图 2023-06-28 233042.png" alt=""><figcaption></figcaption></figure>
 
