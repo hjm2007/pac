@@ -4,7 +4,7 @@ description: 下载:https://github.com/clash-verge-rev/clash-verge-rev/releases
 
 # 如何使用Clash Verge
 
-如果无法启动，请安装[WebView2](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download)
+如果无法启动，请安装[WebView2](https://go.microsoft.com/fwlink/p/?LinkId=2124703)
 
 1.打开软件后，点击托盘图标后，点击"新建"已创建配置:
 
