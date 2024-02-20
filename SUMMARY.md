@@ -11,7 +11,7 @@
 * [如何使用WireGuard配合WARP进行科学上网](windows/wireguard.md)
 * [无界使用教程](windows/wj.md)
 
-## 安卓端工具使用 <a href="#android" id="android"></a>
+## Android端工具使用 <a href="#android" id="android"></a>
 
 * [如何使用V2rayNG](android/v2rayng.md)
 * [如何使用Clash Meta For Android](android/clash\_meta.md)
