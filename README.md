@@ -74,13 +74,21 @@ DNS劫持和污染是针对某些网站的最严重的干扰。
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/7f15c3bfab8d4283b4b711219cf324a1.png" alt="" width="375"><figcaption><p>DNS污染(图片来源:<a href="https://theinitium.com/zh-Hans/article/20150904-mainland-greatfirewall">https://theinitium.com/zh-Hans/article/20150904-mainland-greatfirewall</a>)</p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/9c573f60533445618eddca602a2fd50e.png" alt="" width="375"><figcaption><p>RST污染(图片来源:<a href="https://theinitium.com/zh-Hans/article/20150904-mainland-greatfirewall">https://theinitium.com/zh-Hans/article/20150904-mainland-greatfirewall</a>)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/7f15c3bfab8d4283b4b711219cf324a1.png" alt="" width="563"><figcaption><p>DNS污染(图片来源:<a href="https://theinitium.com/zh-Hans/article/20150904-mainland-greatfirewall">https://theinitium.com/zh-Hans/article/20150904-mainland-greatfirewall</a>)</p></figcaption></figure>
 
 </div>
+
+### 六.RST攻击
+
+RST 攻击是 GFW 最常见也是运用最广泛的屏蔽手段之一, 因此一一列举它的所有应用场合是不可能的. 此处将会举出影响最大的几种.
+
+1. 使用 TCP 的 DNS
+2. 包含敏感词的 HTTP 请求. 这在互联网逐渐 HTTPS 化之后逐渐失去了意义
+3. [SNI](https://en.wikipedia.org/wiki/Server\_Name\_Indication)和 HTTPS 证书中包含被屏蔽网址的 HTTPS 请求
+
+其中第三种场景在当下造成的影响最为严重。
+
+<figure><img src=".gitbook/assets/9c573f60533445618eddca602a2fd50e.png" alt=""><figcaption><p>RST攻击(图片来源:<a href="https://theinitium.com/zh-Hans/article/20150904-mainland-greatfirewall">https://theinitium.com/zh-Hans/article/20150904-mainland-greatfirewall</a>)</p></figcaption></figure>
 
 ## 三.我们为什么要越过GFW
 
@@ -98,7 +106,7 @@ DNS劫持和污染是针对某些网站的最严重的干扰。
 * [ShadowSocks作者被请喝茶](https://zh.wikipedia.org/zh/Shadowsocks)
 * ShadowSocksR作者被人肉搜索
 
-都是真实的案例，因为涉及的网站、软件被撤或被关是能直接观察到，且有几位涉事者后来都有澄清，所以可以确定不是空穴来风。据我所知，知乎上甚至有人因为卖建站主机入狱的，原因是名下的建站主机公司销售香港地区的服务器，被大量客户买去翻墙用，最终导致公司被关，自己也坐了一年的牢。如果你的心里正酝酿着做翻墙的生意，还是就此打住吧，如果你是网络主机提供商，也要管好自己的服务器，如果你是身怀绝技的码农，最好也别碰这类软件的开发，除非你已人肉翻墙，以后不打算回国了。
+都是真实的案例，因为涉及的网站、软件被撤或被关是能直接观察到，且有几位涉事者后来都有澄清，所以可以确定不是空穴来风。据我所知，知乎上甚至有人因为卖建站主机入狱的，原因是名下的建站主机公司销售香港地区的服务器，被大量客户买去翻墙用，最终导致公司被关，自己也坐了一年的牢。如果你的心里正酝酿着做翻墙的生意，还是就此打住吧，如果你是网络主机提供商，也要管好自己的服务器，如果你是身怀绝技的码农，最好也别碰这类软件的开发，除非你已人肉翻墙，以后不打算回国了。但不过总有一些B哥作死，比如[这位](https://space.bilibili.com/1493375920/video)翻墙，还搜敏感信息，我建议你不要学，因为学校每年都会有上级部门的网络安全审查，这人拿学校的网来翻墙不就是来找事嘛，而且学校的网络正常要么接入的是移动联通电信的政企专线，要么是CERNET教育骨干网（这个一般是大学用的），这种网络有流量监控，你在里面干了什么很容易就查到了，翻墙更是分分钟抓住。
 
 ## 五.中国安全翻墙上网须知
 
