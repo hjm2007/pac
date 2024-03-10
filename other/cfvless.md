@@ -14,9 +14,9 @@ description: 注意:此方法IP地址有跳动风险，请尽量不要登陆常�
 
 1.进入CF官网，点击"Workers 和 Pages——创建应用程序"
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2.随便取个名字后点"部署"
 

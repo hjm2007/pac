@@ -1,6 +1,7 @@
 # Table of contents
 
 * [有关科学上网的说明与解释](README.md)
+  * [镜像站搭建指南](start/mirror.md)
 
 ## Windows端工具使用 <a href="#windows" id="windows"></a>
 

@@ -6,6 +6,18 @@ description: 一些解释，旨在帮助各位童鞋如何合理进行科学上�
 
 <figure><img src=".gitbook/assets/8be9bbedfcbd412ea188bd35a2070cd9.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+手机用户请在浏览器中输入短网址 或使用微信、支付宝等二维码工具扫描二维码打开页面, 点击右上角"...", 在弹出菜单中点击“在浏览器打开”； 若网页被举报禁止访问，请点击“恢复申请访问”，将链接复制并粘贴到浏览器中打开（请不要使用QQ或360浏览器，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器
+
+提示：微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或[制作本项目的同步镜像](https://github.com/jsvpn/jsproxy/blob/dev/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md)，获得一个新的网址来推广。
+
+同步地址:
+
+1.[https://winver-dev.gitbook.io](https://github.com/hjm2007/pac)
+
+2.[https://github.com/hjm2007/pac](https://github.com/hjm2007/pac)
+
 ## **注意：**
 
 ①不得将我们提供的服务用于任何非法或侵权或违反社会公益等活动，包括但不限于将其用于展示传播包含色情、种族主义、低级趣味、淫秽、诽谤中伤、污辱性质、赌博、教唆犯罪或进行犯罪活动的信息，以及传播任何针对宗教、民族传统、人种、性别、年龄的各种仇恨、歧视和偏见的内容！
