@@ -11,6 +11,8 @@ github镜像站点1：[https://bgithub.xyz](https://bgithub.xyz/)
 
 github镜像站点2：[https://ggithub.xyz](https://ggithub.xyz/)
 
+更多镜像站请前往[https://github.com/runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite)
+
 **二：修改电脑本地hosts文件访问github**
 
 具体方法：
