@@ -20,7 +20,7 @@
 
 * [如何免信用卡申请Cloudflare Zero Trust实现无限流量](other/zero.md)
 * [如何通过脚本获取WARP+无限流量](other/warp-p.md)
-* [使用CF Worker搭建vless节点](other/shi-yong-cf-worker-da-jian-vless-jie-dian.md)
+* [使用CF Worker搭建vless节点](other/cfvless.md)
 
 ***
 
