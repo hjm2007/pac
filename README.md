@@ -174,24 +174,5 @@ YouTube频道:[ぺぽよ](https://www.youtube.com/@pepoyoPPY),[ちのい](https:
 
 2.如果你想要用Clash，Windows 或 Mac端建议使用Clash Verge，安卓端请使用Clash Meta For Android
 
-3.Shadowsocks订阅更新功能有问题所以不推荐使用
-
-4.对于其他翻墙软件评测如下：
-
-* 自由门：无效，非中立
-* 无界：半有效，非中立
-* 赛风：无效，非中立
-* nthlink：半有效，非中立
-
-<mark style="color:red;">**提示：不是不可以使用上述非中立的软件，但你要是这么做了，我不能保证你不会去橘子喝茶。**</mark>
-
-5.已经灭绝的方法：
-
-1.GoAgent
-
-。。。。。。
-
-(待更新)
-
-6.如果在手机端打开Google重定向到"www.google.cn/m",请打开"www.google.com.hk"
+3.如果在手机端打开Google重定向到"www.google.cn/m",请打开"www.google.com.hk"
 
