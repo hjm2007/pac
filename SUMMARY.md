@@ -10,7 +10,6 @@
 * [如何使用Shadowsocksr](windows/shadowsocksr.md)
 * [如何使用Cloudflare WARP](windows/warp.md)
 * [如何使用WireGuard配合WARP进行科学上网](windows/wireguard.md)
-* [无界使用教程](windows/wj.md)
 
 ## Android端工具使用 <a href="#android" id="android"></a>
 
