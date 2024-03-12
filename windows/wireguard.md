@@ -90,6 +90,8 @@ reg add HKLM\Software\WireGuard /v DangerousScriptExecution /t REG_DWORD /d 1 /f
 
 3.修改WireGuard节点配置文件。在MTU下方加入以下内容。取消勾选拦截未经隧道的流量前面的复选框。重新连接，之后就可以正常分流了。
 
+注意:"C:\Program Files\WireGuard\\"为你的Wireguard安装地址。
+
 ```
 PreUp = "C:\Program Files\WireGuard\routes-up.bat"
 PostUp = "C:\Program Files\WireGuard\dns-up.bat"
