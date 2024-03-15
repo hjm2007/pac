@@ -6,6 +6,8 @@ description: 针对部分设备无法访问
 
 说明：因为国产浏览器和微信可能已屏蔽本项目的网址，所以推广时不太方便，所以如果制作一个本项目的镜像，得到一个新的网址，并定时同步，则更方便推广。
 
+### 一.GitHub镜像
+
 1、注册一个github.com账号，并登录；
 
 2、打开 [https://github.com/hjm2007/pac](https://github.com/hjm2007/pac)
@@ -57,4 +59,14 @@ git remote add upstream https://github.com/fqnews/bnews.git
 
 这时，在当前这个 bnews 目录下会有一个 syncnews.bat 命令脚本，把这个命令脚本加入到windows的任务计划程序定时执行即可。
 
-你也可以参考[https://bili33.top/posts/CloudFlare-Workers/](https://bili33.top/posts/CloudFlare-Workers/)搭建CF Worker(CF Page)反代站，反代域名填写"winver-dev.gitbook.io"即可。
+### 二.CF反代镜像
+
+你可以参考[https://bili33.top/posts/CloudFlare-Workers/](https://bili33.top/posts/CloudFlare-Workers/)搭建CF Worker(CF Page)反代站，反代域名填写"winver-dev.gitbook.io"即可。
+
+### 三.GitBook同步
+
+1.注册一个Gitbook在线版并安装Github插件，同时注册一个github.com账号
+
+2.打开前面的项目地址并Fork
+
+3.参考[这里](https://zhuanlan.zhihu.com/p/343212233)进行同步，成功后即有一个镜像网站
