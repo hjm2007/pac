@@ -40,10 +40,10 @@ apt install git
 ```
 cd /root  
 git config --global core.autocrlf input  
-git clone git@github.com:your-github-username/bnews.git  
+git clone git@github.com:your-github-username/pac.git  
 cd bnews  
 chmod +x syncnews.sh  
-git remote add upstream https://github.com/fqnews/bnews.git  
+git remote add upstream https://github.com/hjm2007/pac
 ```
 
 然后将脚本 `/root/bnews/syncnews.sh` 加到你的linux crontab 里面定时执行即可。
@@ -52,9 +52,9 @@ Windows 则先打开Git CMD命令行，依次执行下列命令：
 
 ```
 git config --global core.autocrlf true  
-git clone git@github.com:your-github-username/bnews.git  
+git clone git@github.com:your-github-username/pac.git  
 cd bnews  
-git remote add upstream https://github.com/fqnews/bnews.git  
+git remote add upstream https://github.com/hjm2007/pac  
 ```
 
 这时，在当前这个 bnews 目录下会有一个 syncnews.bat 命令脚本，把这个命令脚本加入到windows的任务计划程序定时执行即可。
