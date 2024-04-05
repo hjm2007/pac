@@ -98,3 +98,5 @@ PostUp = "C:\Program Files\WireGuard\dns-up.bat"
 PreDown = "C:\Program Files\WireGuard\routes-down.bat"
 PostDown = "C:\Program Files\WireGuard\dns-down.bat"
 ```
+
+注意：如果你想上ChatGPT,试试搭配赛风使用。
