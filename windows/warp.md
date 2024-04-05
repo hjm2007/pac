@@ -47,3 +47,5 @@ _注意:如一直处在Connecting状态，则说明目前WARP服务已被GFW阻�
 5.管理员运行"2：将选好的ip复制到这里.bat",再将优选的IP复制到这里，若出现如下提示即可完成优选
 
 <figure><img src="../.gitbook/assets/屏幕截图 2023-06-24 171041.png" alt=""><figcaption></figcaption></figure>
+
+注意：如果你想上ChatGPT,试试搭配赛风使用。
