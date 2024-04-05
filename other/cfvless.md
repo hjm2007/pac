@@ -927,4 +927,4 @@ const hostnames = ['www.fmprc.gov.cn', 'www.xuexi.cn', 'www.gov.cn', 'mail.gov.c
 
 使用CF Pages搭建，还需要一个Github账号并Fork项目[https://github.com/3Kmfi6HP/EDtunnel](https://github.com/3Kmfi6HP/EDtunnel)参考前面的方法即可。
 
-**2024-4-5:**可以通过代理赛风VPN实现节点地区固定，仅需在赛风中设置上游代理为节点代理地址，再选择地区即可(地区有限)。
+**2024-4-5:**可以通过代理赛风VPN实现节点地区固定，仅需在赛风中设置上游代理为节点代理地址，再选择地区即可(地区有限)。详细教程请参考[这里](https://www.youtube.com/watch?v=y7dJvu1dbE0)
