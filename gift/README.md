@@ -33,18 +33,20 @@ description: 发放一些福利
 
 #### ChromeGo订阅链接分享
 
-不套warp版本（clashmeta）
+#### Clash Meta 客户端订阅
 
-https://mareep.netlify.app/sub/merged\_proxies\_new.yaml
+```
+https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
+```
 
-套warp版本（clashmeta）
+#### 通用 base64 订阅
 
-https://mareep.netlify.app/sub/merged\_warp\_proxies\_new.yaml
+```
+https://chromego-sub.netlify.app/sub/base64.txt
+```
 
-通用base64链接 （shadowrocket和nekoray系列）
+#### sing-box 订阅（适用于 1.8.0 以上）
 
-https://mareep.netlify.app/sub/shadowrocket\_base64.txt
-
-sing-box订阅链接（1.8.0以上）
-
-https://mareep.netlify.app/sub/sb.json
+```
+https://chromego-sub.netlify.app/sub/sing-box.json
+```
