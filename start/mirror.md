@@ -70,3 +70,7 @@ git remote add upstream https://github.com/hjm2007/pac
 2.打开前面的项目地址并Fork
 
 3.参考[这里](https://zhuanlan.zhihu.com/p/343212233)进行同步，成功后即有一个镜像网站
+
+### 四.GitBook CLI
+
+可参考网上教程，需要对每个md文件进行更改
