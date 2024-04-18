@@ -50,3 +50,11 @@ https://chromego-sub.netlify.app/sub/base64.txt
 ```
 https://chromego-sub.netlify.app/sub/sing-box.json
 ```
+
+[**Clash Meta (带WARP)**](#user-content-fn-1)[^1]
+
+```
+   https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta_warp.yaml
+```
+
+[^1]: 
