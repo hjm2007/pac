@@ -166,7 +166,7 @@ RST 攻击是 GFW 最常见也是运用最广泛的屏蔽手段之一, 因此一
 
 ## **六.YouTube频道和网站推荐(不定期更新)**
 
-YouTube频道:[ぺぽよ](https://www.youtube.com/@pepoyoPPY),[ちのい](https://www.youtube.com/@ul0ux),[椰椰子](https://www.youtube.com/@abigcoconut1538/)
+YouTube频道:[ぺぽよ](https://www.youtube.com/@pepoyoPPY),[ちのい](https://www.youtube.com/@ul0ux),[椰椰子](https://www.youtube.com/@abigcoconut1538/),[LOES鱼](https://www.youtube.com/@LOESFish)
 
 网站:[NicoNico](https://www.nicovideo.jp/),[Pixiv](https://www.pixiv.net/),[Google](https://www.google.com/),[Internet Archive](https://archive.org/),[端传媒](https://theinitium.com/),[BBC中文网](https://www.bbc.com/zhongwen/simp/),[华尔街日报](https://cn.wsj.com)
 
