@@ -4,6 +4,8 @@ description: 虽然使用WARP可以实现翻墙，但WARP注册服务域名被GF
 
 # 如何使用WireGuard配合WARP进行科学上网
 
+最近由于WARP封控严重，请切换到IPv6访问(若IPv6失效请尝试IPv4)
+
 条件:请注册一个Replit账号并务必打开WARP代理模式否则无法识别
 
 1.下载并安装WireGuard:[https://www.wireguard.com/install/](https://www.wireguard.com/install/)

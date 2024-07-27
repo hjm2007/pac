@@ -4,57 +4,38 @@ description: 发放一些福利
 
 # 福利页
 
-#### v2ray订阅：
+**Clash Meta (不带WARP):**
 
-1.[https://raw.fastgit.org/Pawdroid/Free-servers/main/sub](https://raw.fastgit.org/Pawdroid/Free-servers/main/sub)
+{% embed url="https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta.yaml" %}
 
-2.[https://raw.fastgit.org/ripaojiedian/freenode/main/sub](https://raw.fastgit.org/ripaojiedian/freenode/main/sub)
+**Clash Meta (带WARP):**
 
-#### ssr订阅：
+{% embed url="https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta_warp.yaml" %}
 
-[https://raw.githubusercontent.com/voken100g/AutoSSR/master/online](https://raw.githubusercontent.com/voken100g/AutoSSR/master/online)
+**Base64:**
 
-[https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub](https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub)
+{% embed url="https://raw.githubusercontent.com/linzjian666/chrome_extractor/main/outputs/base64.txt" %}
 
-[https://raw.githubusercontent.com/learnhard-cn/free\_proxy\_ss/main/ssr/ssrsub](https://raw.githubusercontent.com/learnhard-cn/free\_proxy\_ss/main/ssr/ssrsub)
+**Proxy urls:**
 
-#### ss订阅：
+{% embed url="https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/proxy_urls.txt" %}
 
-[https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub](https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub)
+**如下为备用链接：**
 
-#### 订阅运营商：
+**Clash Meta (不带WARP):**
 
-[bulink.xyz](https://bulink.xyz/)注册（要翻墙）除可订阅本页免费节点，还有每月5G自建节点免费流量，不用打卡签到长期有效，欢迎体验\
-新开bulink镜像站[burstlinker.com](https://www.burstlinker.com/)（不需要翻墙）
+{% embed url="https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta.yaml" %}
 
-#### 长期节点地址(需翻墙):
+**Clash Meta (带WARP):**
 
-[www.freefq.com](https://www.freefq.com)
+{% embed url="https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta_warp.yaml" %}
 
-#### ChromeGo订阅链接分享
+**Base64:**
 
-#### Clash Meta 客户端订阅
+{% embed url="https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/base64.txt" %}
 
-```
-https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
-```
+**Proxy urls:**
 
-#### 通用 base64 订阅
+{% embed url="https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/proxy_urls.txt" %}
 
-```
-https://chromego-sub.netlify.app/sub/base64.txt
-```
-
-#### sing-box 订阅（适用于 1.8.0 以上）
-
-```
-https://chromego-sub.netlify.app/sub/sing-box.json
-```
-
-[**Clash Meta (带WARP)**](#user-content-fn-1)[^1]
-
-```
-   https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta_warp.yaml
-```
-
-[^1]: 
+以上链接均来自[https://github.com/linzjian666/chromego\_extractor](https://github.com/linzjian666/chromego\_extractor)

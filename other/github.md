@@ -7,9 +7,7 @@ description: >-
 
 **一：通过github镜像网站访问github**
 
-github镜像站点1：[https://bgithub.xyz](https://bgithub.xyz/)
-
-github镜像站点2：[https://ggithub.xyz](https://ggithub.xyz/)
+github镜像站点：[https://dgithub.xyz](https://bgithub.xyz/)
 
 更多镜像站请前往[https://github.com/runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite)
 

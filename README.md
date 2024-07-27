@@ -6,19 +6,15 @@ description: 一些解释，旨在帮助各位童鞋如何合理进行科学上�
 
 <figure><img src=".gitbook/assets/8be9bbedfcbd412ea188bd35a2070cd9.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 手机用户请在浏览器中输入短网址 或使用微信、支付宝等二维码工具扫描二维码打开页面, 点击右上角"...", 在弹出菜单中点击“在浏览器打开”； 若网页被举报禁止访问，请点击“恢复申请访问”，将链接复制并粘贴到浏览器中打开（请不要使用QQ或360浏览器，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器
 
 提示：微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或[制作本项目的同步镜像](start/mirror.md)，获得一个新的网址来推广。
 
 同步地址:
 
-1.[https://winver-dev.gitbook.io](https://github.com/hjm2007/pac)
+1.[https://docs.winverdev.eu.org/](https://docs.winverdev.eu.org/)
 
 2.[https://github.com/hjm2007/pac](https://github.com/hjm2007/pac)
-
-3.[https://hjm2007.github.io/](https://hjm2007.github.io/)
 
 ## **注意：**
 

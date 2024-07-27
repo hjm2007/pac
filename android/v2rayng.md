@@ -167,3 +167,7 @@ description: 下载：https://github.com/2dust/v2rayNG/releases
 根据不同的需求选择合适的预定义规则，一般选择`绕过局域网及大陆地址而后代理`。
 
 资料来自：[https://www.tuite22.com/346.html](https://www.tuite22.com/346.html)
+
+TIPs：推荐使用[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases/latest)(来自伊朗的V2rayNG高级版)，仅需按如下操作即可：
+
+<figure><img src="../.gitbook/assets/unnamed.jpg" alt=""><figcaption></figcaption></figure>
