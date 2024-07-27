@@ -4,7 +4,7 @@ description: 虽然使用WARP可以实现翻墙，但WARP注册服务域名被GF
 
 # 如何使用WireGuard配合WARP进行科学上网
 
-最近由于WARP封控严重，请切换到IPv6访问(若IPv6失效请尝试IPv4)
+**最近由于WARP封控严重，请切换到IPv6访问(若IPv6失效请尝试IPv4)**
 
 条件:请注册一个Replit账号并务必打开WARP代理模式否则无法识别
 
@@ -102,3 +102,5 @@ PostDown = "C:\Program Files\WireGuard\dns-down.bat"
 ```
 
 注意：如果你想上ChatGPT,试试搭配赛风使用。
+
+TIPs：部分高级用户可以使用[Oblivion](https://github.com/bepass-org/oblivion-desktop/releases)作为替代

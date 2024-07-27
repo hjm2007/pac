@@ -1,10 +1,10 @@
 ---
-description: 下载:https://1.1.1.1或https://one.one.one.one
+description: 下载:https://1.1.1.1
 ---
 
 # 如何使用Cloudflare WARP
 
-最近由于WARP封控严重，请切换到IPv6访问(若IPv6失效请尝试IPv4)
+**最近由于WARP封控严重，请切换到IPv6访问(若IPv6失效请尝试IPv4)**
 
 Notes:由于已经安装，所以部分图片来自网络。
 
