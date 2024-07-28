@@ -12,6 +12,8 @@ description: 发放一些福利
 
 **免费WARP+订阅链接：**[**https://github.com/ircfspace/warpsub**](https://github.com/ircfspace/warpsub)
 
+**节点恢复工具：**[**https://fragment.github1.cloud/**](https://fragment.github1.cloud/)
+
 **Clash Meta (不带WARP):**
 
 {% embed url="https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta.yaml" %}
