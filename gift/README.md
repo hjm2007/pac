@@ -8,8 +8,6 @@ description: 发放一些福利
 
 **免费节点获取(批量)：**[**https://ircfspace.github.io/updater/**](https://ircfspace.github.io/updater/)
 
-**免费WARP+密钥：**[**https://github.com/ircfspace/warpkey**](https://github.com/ircfspace/warpkey)
-
 **免费WARP+订阅链接：**[**https://github.com/ircfspace/warpsub**](https://github.com/ircfspace/warpsub)
 
 **节点恢复工具：**[**https://fragment.github1.cloud/**](https://fragment.github1.cloud/)
