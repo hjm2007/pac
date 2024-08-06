@@ -12,11 +12,13 @@ description: 发放一些福利
 
 **节点恢复工具：**[**https://fragment.github1.cloud/**](https://fragment.github1.cloud/)
 
+**另外一位大佬的ChromeGo的提取器：**[**https://github.com/Misaka-blog/chromego\_merge**](https://github.com/Misaka-blog/chromego\_merge)
+
 **Clash Meta (不带WARP):**
 
 {% embed url="https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta.yaml" %}
 
-**Clash Meta (带WARP):**
+**Clash Meta (带WARP，Hiddify用户请勿导入):**
 
 {% embed url="https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta_warp.yaml" %}
 
@@ -34,7 +36,7 @@ description: 发放一些福利
 
 {% embed url="https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta.yaml" %}
 
-**Clash Meta (带WARP):**
+**Clash Meta (带WARP，Hiddify用户请勿导入):**
 
 {% embed url="https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta_warp.yaml" %}
 
