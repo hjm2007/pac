@@ -4,6 +4,10 @@ description: 普通状态下WARP流量有限，无法满足我们的日常需求
 
 # 如何免信用卡申请Cloudflare Zero Trust实现无限流量
 
+**由于本人已注册团队账户，所以本文为转载，有时间我会重新注册一个CF账号进行演示**
+
+**原文地址：**[https://github.com/getsomecat/GetSomeCats/blob/Surge/%E6%B3%A8%E5%86%8CCloudflare%E5%B9%B6%E5%8A%A0%E5%85%A5ZeroTrust%E6%95%99%E7%A8%8B.md](https://github.com/getsomecat/GetSomeCats/blob/Surge/%E6%B3%A8%E5%86%8CCloudflare%E5%B9%B6%E5%8A%A0%E5%85%A5ZeroTrust%E6%95%99%E7%A8%8B.md)
+
 条件(临时)：有一个很好的梯子，一个Cloudflare账户（自行百度）
 
 1.登陆Cloudflare帐号，如果是新帐号，会有如下的一些提示：
@@ -24,7 +28,7 @@ description: 普通状态下WARP流量有限，无法满足我们的日常需求
 
 7.跳过添加付款方式步骤
 
-在上面选择好Plan后，到了添加付款方式页面，将地址栏：[https://one.dash/cloudflare.com](https://one.dash/cloudflare.com) 后面的全部删掉然后回车
+在上面选择好Plan后，到了添加付款方式页面，将地址栏：[https://one.dash.cloudflare.com](https://one.dash/cloudflare.com) 后面的全部删掉然后回车
 
 <figure><img src="https://github.com/getsomecat/GetSomeCats/raw/Surge/%E6%B3%A8%E5%86%8CCloudflare%E5%B9%B6%E5%8A%A0%E5%85%A5ZeroTrust%E6%95%99%E7%A8%8B.assets/iShot_2023-03-30_17.02.36.png" alt=""><figcaption></figcaption></figure>
 

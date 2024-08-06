@@ -14,7 +14,7 @@ description: 虽然使用WARP可以实现翻墙，但WARP注册服务域名被GF
 
 3.依据情况选择(这里为团队账户为例)
 
-团队账户申请:[zero.md](../other/zero.md "mention")
+团队账户申请:[zero.md](zero.md "mention")
 
 <figure><img src="../.gitbook/assets/屏幕截图 2023-06-24 172505.png" alt=""><figcaption></figcaption></figure>
 
