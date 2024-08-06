@@ -32,7 +32,7 @@ _注意:如一直处在Connecting状态，则说明目前WARP服务已被GFW阻�
 **3.优选IP**
 
 为什么优选IP：正常状态下WARP连接概率很小，需要我们对其IP进行优选\
-1.下载工具:[https://github.com/hjm2007/download/blame/main/ip.zip](https://github.com/hjm2007/download/blame/main/ip.zip)
+1.下载工具:[https://gitlab.com/Misaka-blog/warp-script/-/blob/main/files/warp-yxip/warp-yxip-win.7z](https://gitlab.com/Misaka-blog/warp-script/-/blob/main/files/warp-yxip/warp-yxip-win.7z)
 
 2.运行"1：生成优选IP端口结果文件.bat"(请关闭代理)
 
