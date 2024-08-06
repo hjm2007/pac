@@ -4,7 +4,7 @@ description: 下载:https://github.com/clash-verge-rev/clash-verge-rev/releases
 
 # 如何使用Clash Verge
 
-如果无法启动，请安装[WebView2](https://go.microsoft.com/fwlink/p/?LinkId=2124703)[VC运行库](https://learn.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+如果软件无法启动或打开仪表盘闪退，请安装[WebView2](https://go.microsoft.com/fwlink/p/?LinkId=2124703)[VC运行库](https://learn.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 最新版有自带WebView2的，部分Windows系统无法安装WebView2请下载该版本
 
