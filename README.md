@@ -8,6 +8,8 @@ description: 一些解释，旨在帮助各位童鞋如何合理进行科学上�
 
 由于原地址已经喜提GFW，请访问新地址：[https://docs.winverdev.eu.org/](https://docs.winverdev.eu.org/)
 
+有问题或建议请到[https://github.com/hjm2007/pac/issues](https://github.com/hjm2007/pac/issues)
+
 同步地址:
 
 1.[https://docs.winverdev.eu.org/](https://docs.winverdev.eu.org/)
