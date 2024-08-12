@@ -103,9 +103,21 @@ pac模式——黑名单（如gfwlist.txt）模式(只有在黑名单上的域�
 
 <figure><img src="../.gitbook/assets/屏幕截图 2023-06-28 233016.png" alt=""><figcaption></figcaption></figure>
 
-提示：可以自己配置路由但新手掌握这两种模式就够了。
+如果想要更高级的方式，可以<mark style="color:red;">管理员权限</mark>打开V2ray，再启用TUN模式，稍等片刻即可提供虚拟网卡方式代理流量。
 
 至此就可以翻墙上网了。
+
+**新功能补充：**
+
+6.43+新增：
+
+Fragment分片功能(针对部分节点无法使用)
+
+6.53+新增：
+
+增加功能`多服务器最低延迟 (多选)` ，使用sing-box 实现(Core类型需切换为sing\_box)
+
+增加功能`多服务器负载均衡 (多选)` ，使用xray 实现（不支持Hy2，Tuic，Wg)(Core类型需切换为Xray)
 
 **三.订阅设置**
 
@@ -149,3 +161,10 @@ _提示：建议打开"启用更新"并设置"自动更新间隔"为"1"_
 
 <figure><img src="../.gitbook/assets/屏幕截图 2023-09-12 233331.png" alt=""><figcaption></figcaption></figure>
 
+3:无法启用TUN模式
+
+请确保以管理员权限运行V2rayN，或者直接在'设置'选项中点击"以管理员身份重启"
+
+4:TUN模式下部分节点不可用
+
+在"设置——参数设置——Core类型设置"将核心类型改为"sing\_box"再重启服务
