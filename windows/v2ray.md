@@ -12,7 +12,7 @@ description: 下载:https://github.com/2dust/v2rayN/releases
 
 * v2rayN-With-Core.zip 包含所有Core文件，如您第一次请下载此包
 * v2rayN.zip 不包含Core文件
-* zz-v2rayN-With-Core-SelfContained.7z，包含所有Core文件；独立包，不需要下载安装\[Microsoft .NET 6.0 Desktop Runtime]\(有问题不推荐)
+* zz-v2rayN-With-Core-SelfContained.7z，包含所有Core文件；独立包，不需要下载安装\[Microsoft .NET 6.0 Desktop Runtime]
 
 #### windows x86
 
