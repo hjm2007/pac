@@ -12,40 +12,22 @@ description: 发放一些福利
 
 **节点恢复工具：**[**https://fragment.github1.cloud/**](https://fragment.github1.cloud/)
 
-**另外一位大佬的ChromeGo的提取器：**[**https://github.com/Misaka-blog/chromego\_merge**](https://github.com/Misaka-blog/chromego\_merge)
+**ChromeGo订阅(来自**[**https://github.com/Misaka-blog/chromego\_merge**](https://github.com/Misaka-blog/chromego\_merge)**):**
 
-**Clash Meta (不带WARP):**
+#### Clash Meta 客户端订阅
 
-{% embed url="https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta.yaml" %}
+```
+https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
+```
 
-**Clash Meta (带WARP，Hiddify用户请勿导入):**
+#### 通用 base64 订阅
 
-{% embed url="https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta_warp.yaml" %}
+```
+https://chromego-sub.netlify.app/sub/base64.txt
+```
 
-**Base64:**
+#### sing-box 订阅（适用于 1.8.0 以上）
 
-{% embed url="https://raw.githubusercontent.com/linzjian666/chrome_extractor/main/outputs/base64.txt" %}
-
-**Proxy urls:**
-
-{% embed url="https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/proxy_urls.txt" %}
-
-**如下为备用链接：**
-
-**Clash Meta (不带WARP):**
-
-{% embed url="https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta.yaml" %}
-
-**Clash Meta (带WARP，Hiddify用户请勿导入):**
-
-{% embed url="https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta_warp.yaml" %}
-
-**Base64:**
-
-{% embed url="https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/base64.txt" %}
-
-**Proxy urls:**
-
-{% embed url="https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/proxy_urls.txt" %}
-
-以上链接均来自[https://github.com/linzjian666/chromego\_extractor](https://github.com/linzjian666/chromego\_extractor)
+```
+https://chromego-sub.netlify.app/sub/sing-box.json
+```
