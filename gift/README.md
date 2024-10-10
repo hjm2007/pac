@@ -12,6 +12,8 @@ description: 发放一些福利
 
 **节点恢复工具：**[**https://fragment.github1.cloud/**](https://fragment.github1.cloud/)
 
+**ChromeGo备用：**[**https://github.com/linzjian666/chromego\_extractor**](https://github.com/linzjian666/chromego\_extractor)
+
 **ChromeGo订阅(来自**[**https://github.com/Misaka-blog/chromego\_merge**](https://github.com/Misaka-blog/chromego\_merge)**):**
 
 #### Clash Meta 客户端订阅
