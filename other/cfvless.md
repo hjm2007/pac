@@ -22,7 +22,7 @@ description: 注意:此方法IP地址有跳动风险，请尽量不要登陆常�
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-3.点击编辑代码，在[这里](https://github.com/3Kmfi6HP/EDtunnel/blob/main/\_worker.js)获取。
+3.点击编辑代码，在[这里](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js)获取。
 
 提示:
 
@@ -51,4 +51,6 @@ const hostnames = ['www.fmprc.gov.cn', 'www.xuexi.cn', 'www.gov.cn', 'mail.gov.c
 
 使用CF Pages搭建，还需要一个Github账号并Fork项目[https://github.com/3Kmfi6HP/EDtunnel](https://github.com/3Kmfi6HP/EDtunnel)参考前面的方法即可。
 
-**2024-4-5:**可以通过代理赛风VPN实现节点地区固定，仅需在赛风中设置上游代理为节点代理地址，再选择地区即可(地区有限)。详细教程请参考[这里](https://www.youtube.com/watch?v=y7dJvu1dbE0)
+**2024-4-5:**&#x53EF;以通过代理赛风VPN实现节点地区固定，仅需在赛风中设置上游代理为节点代理地址，再选择地区即可(地区有限)。详细教程请参考[这里](https://www.youtube.com/watch?v=y7dJvu1dbE0)
+
+**2025-1-4:**&#x636E;小道消息说，CF不允许被用于代理服务，请注意

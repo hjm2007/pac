@@ -12,24 +12,36 @@ description: 发放一些福利
 
 **节点恢复工具：**[**https://fragment.github1.cloud/**](https://fragment.github1.cloud/)
 
-**ChromeGo备用：**[**https://github.com/linzjian666/chromego\_extractor**](https://github.com/linzjian666/chromego\_extractor)
+**ChromeGo订阅(来自**[**https://github.com/linzjian666/chromego\_extractor**](https://github.com/linzjian666/chromego_extractor)**):**
 
-**ChromeGo订阅(来自**[**https://github.com/Misaka-blog/chromego\_merge**](https://github.com/Misaka-blog/chromego\_merge)**):**
+*   Clash Meta (不带WARP):
 
-#### Clash Meta 客户端订阅
+    [https://raw.githubusercontent.com/linzjian666/chromego\_extractor/main/outputs/clash\_meta.yaml](https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta.yaml)
+*   Clash Meta (带WARP):
 
-```
-https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
-```
+    [https://raw.githubusercontent.com/linzjian666/chromego\_extractor/main/outputs/clash\_meta\_warp.yaml](https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/clash_meta_warp.yaml)
+*   Base64:
 
-#### 通用 base64 订阅
+    [https://raw.githubusercontent.com/linzjian666/chrome\_extractor/main/outputs/base64.txt](https://raw.githubusercontent.com/linzjian666/chrome_extractor/main/outputs/base64.txt)
+*   Proxy urls:
 
-```
-https://chromego-sub.netlify.app/sub/base64.txt
-```
+    [https://raw.githubusercontent.com/linzjian666/chromego\_extractor/main/outputs/proxy\_urls.txt](https://raw.githubusercontent.com/linzjian666/chromego_extractor/main/outputs/proxy_urls.txt)
 
-#### sing-box 订阅（适用于 1.8.0 以上）
+<details>
 
-```
-https://chromego-sub.netlify.app/sub/sing-box.json
-```
+<summary>(备用)</summary>
+
+*   Clash Meta (不带WARP):
+
+    [https://gcore.jsdelivr.net/gh/linzjian666/chromego\_extractor@main/outputs/clash\_meta.yaml](https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta.yaml)
+*   Clash Meta (带WARP):
+
+    [https://gcore.jsdelivr.net/gh/linzjian666/chromego\_extractor@main/outputs/clash\_meta\_warp.yaml](https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/clash_meta_warp.yaml)
+*   Base64:
+
+    [https://gcore.jsdelivr.net/gh/linzjian666/chromego\_extractor@main/outputs/base64.txt](https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/base64.txt)
+*   Proxy urls:
+
+    [https://gcore.jsdelivr.net/gh/linzjian666/chromego\_extractor@main/outputs/proxy\_urls.txt](https://gcore.jsdelivr.net/gh/linzjian666/chromego_extractor@main/outputs/proxy_urls.txt)
+
+</details>
