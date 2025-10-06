@@ -7,9 +7,11 @@ description: >-
 
 **一：通过github镜像网站访问github**
 
-github镜像站点：[https://dgithub.xyz](https://bgithub.xyz/)
+github镜像网站1：[https://2git.xyz](https://2git.xyz/)
 
-更多镜像站请前往[https://github.com/runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite)
+github镜像网站2：[https://lgithub.xyz](https://lgithub.xyz/)
+
+更多镜像站请前往[https://github.com/Alvin9999/new-pac/wiki/github%E9%95%9C%E5%83%8F](https://github.com/Alvin9999/new-pac/wiki/github%E9%95%9C%E5%83%8F)
 
 **二：修改电脑本地hosts文件访问github**
 

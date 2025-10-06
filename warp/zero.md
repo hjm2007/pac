@@ -70,3 +70,4 @@ description: 普通状态下WARP流量有限，无法满足我们的日常需求
 
 <figure><img src="https://cdn.jsdelivr.net/gh/Misaka-blog/imgs@main/20230208121927.png" alt=""><figcaption></figcaption></figure>
 
+**近期在设备登录Zero Trust时会出现设备限制，解除请参考：blog.wudarensheng.top/p/2025**
